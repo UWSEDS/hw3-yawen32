@@ -5,4 +5,7 @@ For this homework, you are a data scientist working for Pronto (before the end o
 Your assignment is to construct plots of the differences between 'from' and 'to' counts for each station by day of the week. Do this as a set of 7 subplots. You should use at least one function to construct your plots.
 
 ### Grading
-Instructor will fill in
+- 2-pts: create a dataframe with station counts averages by day-of-week
+- 1-pt: structure the 7 day-of-week plots as subplots
+- 1-pt: label the plots by day-of-week
+- 1-pt: label the x-axis for plots in the last row and label the y-axis for plots in the left-most column
