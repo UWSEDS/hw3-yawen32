@@ -9,3 +9,5 @@ Your assignment is to construct plots of the differences between 'from' and 'to'
 - 1-pt: structure the 7 day-of-week plots as subplots
 - 1-pt: label the plots by day-of-week
 - 1-pt: label the x-axis for plots in the last row and label the y-axis for plots in the left-most column
+
+5/5
